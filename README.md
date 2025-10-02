@@ -40,6 +40,6 @@ See [lab-scripts/](./lab-scripts) and [docker/](./docker) for core files.
 
 ## 📄 Resume
 
-See [resume/oracle_dba_resume.pdf](./resume/oracle_dba_resume.pdf)
+See [Resume](./resume/oracle_dba_resume.pdf)
 
 ---
