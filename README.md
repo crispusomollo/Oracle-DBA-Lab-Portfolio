@@ -25,8 +25,7 @@ See [lab-scripts/](./lab-scripts) and [docker/](./docker) for core files.
 
 ## 📸 Screenshots
 
-![SQL Developer]<img width="1910" height="1067" alt="image" src="https://github.com/user-attachments/assets/f3e0e06e-62b8-448b-b0ea-fd562524fadd" />
-
+<img src="https://github.com/user-attachments/assets/f3e0e06e-62b8-448b-b0ea-fd562524fadd" alt="SQL Developer" width="800" />
 
 ## 📃 Certificates
 
