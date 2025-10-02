@@ -1,14 +1,46 @@
-# Oracle DBA Lab Portfolio 🧪
+# 🧪 Oracle DBA Lab Portfolio – `oracle-lab-x`
 
-This repo showcases a multi-schema Oracle DB lab I built and managed using Linux, shell scripting, Oracle SQL, and cloud automation. It's a hands-on environment built to simulate real-world DBA responsibilities. See [Roadmap](roadmap.md)
+A hands-on, real-world Oracle DBA lab environment designed to simulate production workloads. Built with **Oracle 23c**, **Linux**, **Bash**, and optionally **Docker** or **Oracle Cloud (OCI)**, this lab showcases essential skills for database administration, automation, performance tuning, and cloud migration.
 
-## 🔧 What's Inside
+---
 
-- 💻 Multiple schema setup (`dev_user`, `analyst_user`)
-- 🛠️ Automated backups, health checks, and space monitoring
-- 📊 Simulated AWR-style performance analysis (V$ views)
-- ☁️ Deployable on Oracle Cloud (OCI) or Docker
-- 🐚 Shell scripts for backups, log checks, cronjobs
+## 🚀 Features
+
+- 🧑‍💻 Multi-schema Oracle DB (e.g. `dev_user`, `analyst_user`)
+- 💾 Automated backups via Bash + cron
+- 🐚 Shell scripts for health checks, log analysis, space monitoring
+- 📈 Performance insights using dynamic `V$` views
+- ☁️ Portable with Docker Compose or deployable to Oracle Cloud ATP
+- 🔐 OS + DB security hardening examples
+
+---
+
+## 🧪 Lab Preview
+
+### Users
+
+- `dev_user` – Developer schema with full object privileges  
+- `analyst_user` – Read-only access to shared views and reports
+
+### Sample Scripts
+
+- `db_backup.sh` – Full export with `expdp`  
+- `listener_check.sh` – Check Oracle listener status  
+- `space_monitor.sh` – Tablespace alert script  
+- `schema-create.sql` – Setup sample tables, users, and data
+
+---
+
+## 📦 Quick Start (Docker)
+
+> 🐳 Run the full lab locally using Docker Compose.
+
+```bash
+git clone https://github.com/crispusomollo/oracle-lab-x.git
+cd oracle-lab-x/docker
+docker-compose up -d
+
+
 
 ## 🧠 Technologies
 
