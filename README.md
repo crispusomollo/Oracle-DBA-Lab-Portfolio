@@ -1,4 +1,4 @@
-# 🧪 Oracle DBA Lab Portfolio – `oracle-lab-x`
+# 🧪 Oracle DBA Lab Portfolio
 
 A hands-on, real-world Oracle DBA lab environment designed to simulate production workloads. Built with **Oracle 23c**, **Linux**, **Bash**, and optionally **Docker** or **Oracle Cloud (OCI)**, this lab showcases essential skills for database administration, automation, performance tuning, and cloud migration.
 
@@ -39,7 +39,7 @@ A hands-on, real-world Oracle DBA lab environment designed to simulate productio
 git clone https://github.com/crispusomollo/oracle-lab-x.git
 cd oracle-lab-x/docker
 docker-compose up -d
-
+```
 
 
 ## 🧠 Technologies
@@ -70,8 +70,36 @@ See [lab-scripts/](./lab-scripts) and [docker/](./docker) for core files.
 - ☁️ OCI Associates 2025
 - 🐧 Linux+
 
-## 📄 Resume
+## 🎓 Skills Demonstrated
+✅ Oracle user & schema administration
+✅ Tablespace + quota management
+✅ Data Pump exports (expdp) & imports (impdp)
+✅ Bash scripting with cron, alerts, log rotation
+✅ SQL tuning with V$SQL, V$SESSION, V$SYSTEM_EVENT
+✅ Dockerized deployment + optional cloud migration
 
-See [Resume](./resume/oracle_dba_resume.pdf)
+## 🗓️ Suggested Timeline
+| Week | Focus Area                  |
+| ---- | --------------------------- |
+| 1    | Linux + Shell Basics        |
+| 2    | Oracle Setup + User Mgmt    |
+| 3    | Backups + Automation        |
+| 4    | Performance + Security      |
+| 5–6  | Cloud Migration + Portfolio |
+
+## 💡 Future Improvements
+ - GitHub Actions for nightly script testing
+ - Terraform template for full OCI IaaS + ATP setup
+ - Blog post walkthrough or YouTube video
+ - SQL query challenge workbook
+ 
+## 📄 Resume + Portfolio
+📃 [Resume](./resume/oracle_dba_resume.pdf)
+
+🗺️ [roadmap.md](roadmap.md) – 30-day learning + build plan
+
+## 🙌 Contributing / Feedback
+Contributions welcome!
+Fork, star, suggest improvements, or open issues
 
 ---
