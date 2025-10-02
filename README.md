@@ -30,7 +30,7 @@ See [lab-scripts/](./lab-scripts) and [docker/](./docker) for core files.
 ## 📃 Certificates
 
 - ✅ Oracle OCA Certified (23c) - Ongoing
-- ☁️ OCI Foundations 2025
+- ☁️ OCI Associates 2025
 - 🐧 Linux+
 
 ## 📄 Resume
