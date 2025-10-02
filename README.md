@@ -1,6 +1,6 @@
 # Oracle DBA Lab Portfolio 🧪
 
-This repo showcases a multi-schema Oracle DB lab I built and managed using Linux, shell scripting, Oracle SQL, and cloud automation. It's a hands-on environment built to simulate real-world DBA responsibilities.
+This repo showcases a multi-schema Oracle DB lab I built and managed using Linux, shell scripting, Oracle SQL, and cloud automation. It's a hands-on environment built to simulate real-world DBA responsibilities. See [Roadmap](roadmap.md)
 
 ## 🔧 What's Inside
 
