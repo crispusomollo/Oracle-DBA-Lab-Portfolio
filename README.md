@@ -73,12 +73,12 @@ See [lab-scripts/](./lab-scripts) and [docker/](./docker) for core files.
 - 🐧 Linux+
 
 ## 🎓 Skills Demonstrated
-✅ Oracle user & schema administration
-✅ Tablespace + quota management
-✅ Data Pump exports (expdp) & imports (impdp)
-✅ Bash scripting with cron, alerts, log rotation
-✅ SQL tuning with V$SQL, V$SESSION, V$SYSTEM_EVENT
-✅ Dockerized deployment + optional cloud migration
+- ✅ Oracle user & schema administration
+- ✅ Tablespace + quota management
+- ✅ Data Pump exports (expdp) & imports (impdp)
+- ✅ Bash scripting with cron, alerts, log rotation
+- ✅ SQL tuning with V$SQL, V$SESSION, V$SYSTEM_EVENT
+- ✅ Dockerized deployment + optional cloud migration
 
 ## 🗓️ Suggested Timeline
 | Week | Focus Area                  |
