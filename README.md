@@ -61,6 +61,8 @@ See [lab-scripts/](./lab-scripts) and [docker/](./docker) for core files.
 
 <img width="1902" height="1064" alt="image" src="https://github.com/user-attachments/assets/466afa25-bc84-47bc-9af9-376f74f64916" />
 
+<img width="1868" height="986" alt="image" src="https://github.com/user-attachments/assets/bf67cb49-6a47-41c1-9211-505fe3d635bb" />
+
 <img width="1899" height="1074" alt="image" src="https://github.com/user-attachments/assets/301a3825-70de-4ad2-8e13-1ed411344219" />
 
 
